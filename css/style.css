@@ -15,28 +15,27 @@ body {
 	line-height: 24px;
 	border: 1px solid black;
 	background-color: white;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .wrapper h1  {
 	text-align: center;
 	font-size: 18px;
+	margin-bottom: 30px;
 }
-.test {
-  margin-top: 30px;
+.wrapper h2 {
+	font-size: 14px;
 }
-.test h2 {
-	font-size: 18px;
-}
-.test p {
+.wrapper p {
 	margin-left: 30px;
 }
 .button {
 	text-align: center;
-	margin-top: 40px;
-}
-.button input {
+	margin-top: 50px;
+	margin-left: 100px;
 	width: 250px;
 	height: 50px;
 	border: 2px solid black;
 	background-color: #9999CC;
 	font-size: 18px;
 }
+
